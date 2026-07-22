@@ -17,3 +17,10 @@ Customers now see consistent product cards, spacing, controls, and responsive be
 ## Safety approach
 
 The production theme was backed up before deployment, changes were versioned with rollback tags, and cache regeneration plus live HTTP validation were completed. This showcase intentionally contains no production source, customer information, credentials, or private infrastructure details.
+
+## Related Portfolio
+
+- Portfolio: https://amiraliyaghouti.com
+- Projects: https://amiraliyaghouti.com/projects.html
+- Case studies: https://amiraliyaghouti.com/case-studies.html
+- GitHub profile: https://github.com/shiny-a2
